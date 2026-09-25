@@ -2,7 +2,7 @@
 
 Master's student in **Global Software Development** at Fulda University of Applied Sciences, currently an R&D intern at **Sereact GmbH** working on teleoperation data pipelines for embodied AI. Open to software engineering and applied AI roles.
 
-**Portfolio:** [Personal_portfolio](https://amorfati-rashid.vercel.app) · **Email:** Rashid.Hussain.Mohammed23@gmail.com · **LinkedIn:** [rashid-hussain-mohammed](https://linkedin.com/in/rashid-hussain-mohammed)
+**Portfolio:** [amorfati-rashid.vercel.app](https://amorfati-rashid.vercel.app) · **Email:** Rashid.Hussain.Mohammed23@gmail.com · **LinkedIn:** [rashid-hussain-mohammed](https://linkedin.com/in/rashid-hussain-mohammed)
 
 ## Projects
 
@@ -18,7 +18,9 @@ A3C reinforcement learning project tuning engine displacement, compression ratio
 ## Toolbox
 
 **AI & ML:** Python, LangChain, LangGraph, RAG pipelines, Ollama, ChromaDB, scikit-learn, PyTorch
+
 **Full-stack:** TypeScript, React, Node.js, FastAPI, Java Spring Boot, Django
+
 **Cloud & DevOps:** Docker, MySQL, PostgreSQL, GitHub Actions, Azure
 
 📍 Fulda, Germany · English (C1) · German (A2 → B1)
